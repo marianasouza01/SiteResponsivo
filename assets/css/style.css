@@ -92,6 +92,11 @@ main{
     margin-top: 20px;
 }
 
+.text-bx .input-bx{
+    margin: 20px 0;
+    display: flex;
+}
+
 .text-bx .input-bx input{
     width: 60%;
     display: block;
