@@ -180,13 +180,13 @@ main{
         font-size: 18px;
         margin: 10px;
     }
-    .text-bx,
-     .img-bx{
-        width: 100%;
-        text-align: center;
-    }
     main{
         flex-direction: column;
+    }
+    .text-bx,
+    .img-bx{
+        width: 100%;
+        text-align: center;
     }
     .text-bx{
         margin-bottom: 40px;
